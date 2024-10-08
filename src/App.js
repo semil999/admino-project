@@ -4,6 +4,7 @@ import Header from "./layouts/Header";
 import Sidebar from "./layouts/Sidebar";
 
 const App = () => {
+  console.log("Hello Welcome!")
   return <>
     <BrowserRouter>
       <Header />
